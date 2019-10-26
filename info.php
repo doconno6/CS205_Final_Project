@@ -81,33 +81,3 @@
 
   </body>
   </html>
-
-  <style>
-    nav {
-      text-align:center
-    }
-
-    h1 {
-      text-align:center
-    }
-
-    p {
-      text-align:center
-    }
-
-    img {
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-
-      width: 80%;
-      height: 80%;
-    }
-
-    body {
-      background-image: url('rand.png');
-      background-repeat: no-repeat;
-      background-attachment: fixed;
-      background-size: cover;
-    }
-  </style>
