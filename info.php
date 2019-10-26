@@ -5,7 +5,8 @@
     <h2> Project Description </h2>
   </div>
   <p> . </p>
-  <img src="contact.png" alt="contact page" width="600">
+  <img src="contact.png" alt="contact page" width="600" class="full-block">
+
   <div class="caption">
     <p> project information + github repo (trello board) </p>
   </div>
@@ -68,16 +69,16 @@
     </div>
   </div>
 
-  <p> . </p>
-  <p> . </p>
+  <br>
   <div class="container">
     <h2> Scrum: Sprint Activities </h2>
   </div>
   <img class="img-responsive" src="contact.png" alt="contact page" width="460" height="345">
   <div class="caption">
     <p> sprint 1 + sprint 2 details (trello board) </p>
-  </div
-  <p> . </p>
+  </div>
+  <br>
 
   </body>
   </html>
+
