@@ -1,6 +1,7 @@
 <?php include 'header.php'?>
 
-<br><br>
+<br>
+<br>
 <div class="container">
     <h2> Project Description </h2>
 </div>
@@ -8,7 +9,7 @@
 <img src="contact.png" alt="contact page" width="600" class="full-block">
 
 <div class="caption">
-    <p style="alignment: center"> project information + github repo (trello board) </p>
+    <p style="text-align: center"> project information + github repo (trello board) </p>
 </div>
 
 
@@ -74,7 +75,7 @@
 </div>
 <img class="full-block" src="contact.png" alt="contact page" width="460" height="345" ">
 <div class="caption">
-    <p> sprint 1 + sprint 2 details (trello board) </p>
+    <p style="text-align: center"> sprint 1 + sprint 2 details (trello board) </p>
 </div>
 <br>
 
