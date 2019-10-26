@@ -8,8 +8,10 @@
     <link href="custom.css" rel="stylesheet">
     <title>Home Page</title>
 </head>
-<body>
-
+<body
+<?php if (basename(__FILE__) == 'file_name.php'): ?>
+        id="info"
+<?php endif;?>
 <nav class="navbar fixed-top navbar-light bg-light">
     <a class="navbar-brand" href="index.php">
         <img src="https://pbs.twimg.com/profile_images/935211463232376832/DC7I1vwd_400x400.jpg" width="30" height="30" class="d-inline-block align-top" alt="">

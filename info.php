@@ -1,5 +1,4 @@
 <?php include 'header.php'?>
-
   <p> . </p>
   <p> . </p>
   <div class="container">
@@ -44,7 +43,7 @@
 
       <div class="col-md-6">
         <div class="thumbnail">
-          <img src="pp.png" alt="Dan pp" style="width:100%">
+          <img src="pp.png" alt="Dan pp" style="width:100%" >
           <div class="caption">
             <p>DAN D.</p>
             <p>CS Major + focus</p>
