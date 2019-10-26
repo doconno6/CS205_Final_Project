@@ -1,24 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-  <title>Info Page</title>
-</head>
-
-<body>
-  <p> . </p>
-  <h1> Info Page </h1>
-
-  <nav class="navbar navbar-light bg-light">
-    <b class="navbar-brand" href="#">Home</b>
-    <a class="navbar-brand" href="#">Account</a>
-    <a class="navbar-brand" href="#">About</a>
-    <a class="navbar-brand" href="#">Register</a>
-  </nav>
+<?php include 'header.php'?>
 
   <p> . </p>
   <p> . </p>
