@@ -20,13 +20,19 @@
     </a>
     <ul class="navbar-nav mr-auto inline">
         <li class="nav-item">
-            <a class="nav-link" href="account.php">Account <span class="sr-only">(current)</a>
+            <a class="nav-link
+            <?php if (basename(__FILE__) == 'account.php'): ?> active <?php endif?>
+            " href="account.php">Account</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="info.php">About</a>
+            <a class="nav-link
+            <?php if (basename(__FILE__) == 'info.php'): ?> active <?php endif?>
+            " href="info.php"> About</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="#">Register</a>
+            <a class="nav-link
+            <?php if (basename(__FILE__) == 'register.php'): ?> active <?php endif?>
+            " href="#">Register</a>
         </li>
     </ul>
     <form class="form-inline">
