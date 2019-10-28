@@ -13,22 +13,15 @@
         id="info"
 <?php endif;?>
 >
-<nav class="navbar fixed-top navbar-light bg-light">
+<nav class="navbar fixed-top navbar-light bg-dark" style="background-color: #cc7000;">
     <a class="navbar-brand" href="index.php">
         <img src="https://pbs.twimg.com/profile_images/935211463232376832/DC7I1vwd_400x400.jpg" width="30" height="30" class="d-inline-block align-top" alt="">
         Home
     </a>
-    <ul class="navbar-nav mr-auto inline">
-        <li class="nav-item <?php if (basename(__FILE__) == 'account.php'): ?> active <?php endif?>">
-            <a class="nav-link" href="account.php">Account</a>
-        </li>
-        <li class="nav-item <?php if (basename(__FILE__) == 'info.php'): ?> active <?php endif?>">
-            <a class="nav-link" href="info.php"> About</a>
-        </li>
-        <li class="nav-item <?php if (basename(__FILE__) == 'register.php'): ?> active <?php endif?>">
-            <a class="nav-link" href="#">Register</a>
-        </li>
-    </ul>
+    <a class="navbar-brand" href="account.php">Account </a>
+    <a class="navbar-brand" href="info.php">Info </a>
+    <a class="navbar-brand" href="">Register </a>
+
     <form class="form-inline">
         <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
         <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
