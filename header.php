@@ -18,7 +18,7 @@
         <img src="https://pbs.twimg.com/profile_images/935211463232376832/DC7I1vwd_400x400.jpg" width="30" height="30" class="d-inline-block align-top" alt="">
         Home
     </a>
-    <ul class="navbar-nav mr-auto">
+    <ul class="navbar-nav mr-auto inline">
         <li class="nav-item">
             <a class="nav-link" href="account.php">Account <span class="sr-only">(current)</a>
         </li>
