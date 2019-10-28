@@ -18,9 +18,17 @@
         <img src="https://pbs.twimg.com/profile_images/935211463232376832/DC7I1vwd_400x400.jpg" width="30" height="30" class="d-inline-block align-top" alt="">
         Home
     </a>
-    <a class="navbar-brand" href="account.php">Account</a>
-    <a class="navbar-brand" href="info.php">About</a>
-    <a class="navbar-brand" href="#">Register</a>
+    <ul class="navbar-nav mr-auto">
+        <li class="nav-item active">
+            <a class="nav-link" href="account.php">Account <span class="sr-only">(current)</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="info.php">About</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="#">Register</a>
+        </li>
+    </ul>
     <form class="form-inline">
         <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
         <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
