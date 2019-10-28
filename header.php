@@ -13,7 +13,7 @@
         id="info"
 <?php endif;?>
 >
-<nav class="navbar fixed-top navbar-light bg-dark" style="background-color: #cc7000;">
+<nav class="navbar fixed-top navbar-dark" style="background-color: #cc7000;">
     <a class="navbar-brand" href="index.php">
         <img src="https://pbs.twimg.com/profile_images/935211463232376832/DC7I1vwd_400x400.jpg" width="30" height="30" class="d-inline-block align-top" alt="">
         Home
