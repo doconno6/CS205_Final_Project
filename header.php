@@ -18,7 +18,7 @@
         <img src="https://pbs.twimg.com/profile_images/935211463232376832/DC7I1vwd_400x400.jpg" width="30" height="30" class="d-inline-block align-top" alt="">
         Home
     </a>
-    <div class="mx-auto">
+    <div class="mx-2">
         <a class="navbar-brand" href="account.php">Account </a>
         <a class="navbar-brand" href="info.php">Info </a>
         <a class="navbar-brand" href="">Register </a>
