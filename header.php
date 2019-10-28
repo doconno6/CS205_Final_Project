@@ -21,4 +21,8 @@
     <a class="navbar-brand" href="account.php">Account</a>
     <a class="navbar-brand" href="info.php">About</a>
     <a class="navbar-brand" href="#">Register</a>
+    <form class="form-inline">
+        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    </form>
 </nav>
